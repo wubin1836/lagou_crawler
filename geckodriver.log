@@ -1,0 +1,98 @@
+1519367098695	geckodriver	INFO	geckodriver 0.19.1
+1519367098701	geckodriver	INFO	Listening on 127.0.0.1:60303
+1519367099817	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/85/jrtw6v2s7v7dznbrx9ry8y640000gn/T/rust_mozprofile.zvAx0pKDKYtS"
+1519367100444	Marionette	INFO	Enabled via --marionette
+2018-02-23 14:25:01.217 plugin-container[7398:245943] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-02-23 14:25:01.217 plugin-container[7398:245943] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:01.218 plugin-container[7398:245943] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:01.218 plugin-container[7398:245943] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:01.218 plugin-container[7398:245943] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:01.219 plugin-container[7398:245943] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:01.219 plugin-container[7398:245943] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:01.219 plugin-container[7398:245943] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:01.219 plugin-container[7398:245943] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:01.219 plugin-container[7398:245943] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:01.220 plugin-container[7398:245943] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:01.220 plugin-container[7398:245943] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:01.220 plugin-container[7398:245943] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:01.220 plugin-container[7398:245943] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:01.220 plugin-container[7398:245943] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:01.220 plugin-container[7398:245943] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:01.221 plugin-container[7398:245943] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:01.221 plugin-container[7398:245943] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:01.221 plugin-container[7398:245943] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:01.221 plugin-container[7398:245943] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:01.224 plugin-container[7398:245943] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1519367101691	Marionette	INFO	Listening on port 60310
+1519367101810	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519367101853	Marionette	DEBUG	Register listener.js for window 2147483649
+1519367115512	Marionette	DEBUG	Register listener.js for window 4294967297
+1519367115547	Marionette	DEBUG	Register listener.js for window 4294967299
+2018-02-23 14:25:16.019 plugin-container[7400:246550] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb33f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-02-23 14:25:16.019 plugin-container[7400:246550] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:16.020 plugin-container[7400:246550] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:16.020 plugin-container[7400:246550] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:16.020 plugin-container[7400:246550] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:16.021 plugin-container[7400:246550] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:16.021 plugin-container[7400:246550] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:16.021 plugin-container[7400:246550] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:16.021 plugin-container[7400:246550] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:16.021 plugin-container[7400:246550] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:16.021 plugin-container[7400:246550] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:16.022 plugin-container[7400:246550] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:16.022 plugin-container[7400:246550] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:16.022 plugin-container[7400:246550] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:16.022 plugin-container[7400:246550] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:16.022 plugin-container[7400:246550] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:16.022 plugin-container[7400:246550] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:16.022 plugin-container[7400:246550] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:16.022 plugin-container[7400:246550] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:16.023 plugin-container[7400:246550] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:25:16.024 plugin-container[7400:246550] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:26:01.437 plugin-container[7403:247241] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb34b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-02-23 14:26:01.437 plugin-container[7403:247241] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:26:01.437 plugin-container[7403:247241] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:26:01.437 plugin-container[7403:247241] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:26:01.438 plugin-container[7403:247241] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:26:01.438 plugin-container[7403:247241] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:26:01.439 plugin-container[7403:247241] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:26:01.439 plugin-container[7403:247241] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:26:01.439 plugin-container[7403:247241] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:26:01.439 plugin-container[7403:247241] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:26:01.439 plugin-container[7403:247241] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:26:01.439 plugin-container[7403:247241] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:26:01.439 plugin-container[7403:247241] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:26:01.440 plugin-container[7403:247241] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:26:01.440 plugin-container[7403:247241] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:26:01.440 plugin-container[7403:247241] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:26:01.440 plugin-container[7403:247241] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:26:01.440 plugin-container[7403:247241] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:26:01.440 plugin-container[7403:247241] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:26:01.441 plugin-container[7403:247241] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:26:01.442 plugin-container[7403:247241] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 223: TypeError: this._mm is null
+2018-02-23 14:44:08.507 plugin-container[9348:268969] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb14b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-02-23 14:44:08.507 plugin-container[9348:268969] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:44:08.508 plugin-container[9348:268969] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:44:08.508 plugin-container[9348:268969] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:44:08.508 plugin-container[9348:268969] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:44:08.509 plugin-container[9348:268969] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:44:08.509 plugin-container[9348:268969] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:44:08.509 plugin-container[9348:268969] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:44:08.509 plugin-container[9348:268969] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:44:08.509 plugin-container[9348:268969] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:44:08.509 plugin-container[9348:268969] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:44:08.510 plugin-container[9348:268969] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:44:08.510 plugin-container[9348:268969] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:44:08.510 plugin-container[9348:268969] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:44:08.510 plugin-container[9348:268969] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:44:08.510 plugin-container[9348:268969] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:44:08.510 plugin-container[9348:268969] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:44:08.510 plugin-container[9348:268969] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:44:08.511 plugin-container[9348:268969] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:44:08.511 plugin-container[9348:268969] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-02-23 14:44:08.513 plugin-container[9348:268969] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
